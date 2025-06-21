@@ -1,0 +1,185 @@
+/* h1 {
+    color : rgb(73, 254, 1);
+}
+
+p {
+    color:rgb(217, 239, 17);
+}
+
+button {
+    color:rgb(223, 20, 20);
+    background-color:rgb(25, 205, 22);
+}
+
+body {
+    background-color:#adb5bd;
+}
+ */
+
+/* * {
+    color: blue;
+}
+
+h1 {
+    color: green
+}
+
+button {
+    color: brown;
+}
+
+#headingOne {
+    color: blue;
+}
+
+#headingTwo {
+    color: hotpink;
+}
+
+.myClass {
+    color: green;
+} */
+
+#box {
+    background-color: rgba(105, 105, 105, 0.299);
+    /* color: white; */
+    /* this is a comment */
+}
+
+/* .heading {
+    color: brown;
+} */
+
+/* h1, h2, h3 {
+    color: darkcyan;
+} */
+
+/* button {
+    background-color: rgb(255, 4, 4);
+} */
+
+/* p {
+    text-align: left;
+} */
+
+/* p {
+    text-align: start;
+} */
+
+h1 {
+    text-align: left;
+    /* text-decoration:blue dotted underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+}
+
+/* a {
+    text-decoration: none;
+} */
+
+/* #h1 {
+    font-weight: normal;
+}
+
+#h2 {
+    font-weight: bold;
+}
+
+#h3 {
+    font-weight: bolder;
+}
+
+#h4 {
+    font-weight: lighter;
+} */
+
+/* #h1 {
+    font-weight: 100;
+}
+
+#h2 {
+    font-weight: 250;
+}
+
+#h3 {
+    font-weight: 600;
+}
+
+#h4 {
+    font-weight: 900;
+}
+
+#one {
+    font-family: arial;
+}
+
+#two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+#one {
+    font-size: 25px;
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-transform: capitalize; */
+    /* text-transform: lowercase; */
+    /* text-transform: uppercase; */
+    /* line-height: 20px; */
+}
+
+/* #three {
+    font-size: 10px;
+} */
+
+/* * {
+    font-family: 'Times New Roman';
+}
+    
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#outer {
+    font-size: 30px;
+}
+
+#inner {
+    font-size: 10px;
+} */
+
+div {
+    height: 100px;
+    width: 100px;
+    /* background-color: pink; */
+    background-color: green;
+    border-radius: 50%;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: brown; */
+    /* text-align: center; */
+    border: 2px solid brown;
+    /* border-radius: 50%; */
+    /* padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+     */
+    /* padding: 25px; */
+    padding: 25px;
+    /* margin-top: 25px; */
+    margin: 25px;
+}
+
+h1 {
+    width: 200px;
+    height: 50px;
+    background-color: aquamarine;
+    /* border-width: 3px;
+    border-style: dashed;
+    border-color: black; */
+    border: 3px dashed black;
+    text-align: center;
+}
+
+

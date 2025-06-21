@@ -1,0 +1,42 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+/* body {
+    background-image: url("nature_photo.jpg");
+    background-size: cover;
+} */
+
+#box1 {
+    background-image: url("nature_photo.jpg");
+    background-size: cover;
+    /* background-size: contain;
+    background-repeat: no-repeat; */
+    /* background-size: auto; */
+    
+}
+
+body {
+    background-image: url("nature2_photo.jpg");
+    background-size: cover;
+    ;
+}
+
+#box2 {
+    background-image: url("nature1_photo.jpg");
+    background-size: cover;
+    
+}
+
+#box3 {
+    background-image: url("nature3_photo.jpg");
+    background-size: cover;
+}
+#box4 {
+    background-image: url("nature4_photo.jpg");
+    background-size: cover;
+}
